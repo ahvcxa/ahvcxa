@@ -1,3 +1,5 @@
+<img src="https://camo.githubusercontent.com/ae728bf2f2966c23e130dd6588e77114c51eb6d35766cde691ab71b4db67219c/68747470733a2f2f7777772e7365616e2d6c6c6f79642e636f6d2f6173736574732f7374617469632f32303231303330332d64696e6f2d67616d652d322e386362643264632e39313335316435616339313533633466633665646533363033633666643638372e676966" alt="" data-canonical-src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-2.8cbd2dc.91351d5ac9153c4fc6ede3603c6fd687.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 # 💫 About Me:
 🔭 I am currently a student studying Software Development at Istanbul Aydin University.<br>
 
