@@ -19,7 +19,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahvcxa&limit=5&theme=swift&combine_all_yearly_contributions=true)
-<img src="https://i.pinimg.com/originals/51/df/d4/51dfd43516fbfb9f3e233203470aa4d0.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 275px; margin: 0px; width: 500px;" alt="GIF from GIFER" jsname="kn3ccd">
+<img src="https://i.pinimg.com/originals/51/df/d4/51dfd43516fbfb9f3e233203470aa4d0.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 275px; margin: 0px; width: 400px;" alt="GIF from GIFER" jsname="kn3ccd">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahvcxa&icon=3&color=5)](https://visitcount.itsvg.in)
