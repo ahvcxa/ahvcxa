@@ -13,10 +13,6 @@
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="52" height="52" /></div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahvcxa&theme=gotham&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahvcxa&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 
 
