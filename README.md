@@ -28,10 +28,10 @@
 ```python
 profile = {
     "university" : "Istanbul Aydın University — Software Development",
-    "focus"      : ["Data Science", "Machine Learning", "Custom Tooling"],
+    "focus"      : "Data Science", "Machine Learning", "Custom Tooling",
     "building"   : "Tools that make life easier through code 🔧",
     "currently"  : "Exploring ML pipelines & automating everything I can 🚀",
-    "open_to"    : ["Collaborations", "Internships", "Interesting data problems"],
+    "open_to"    : "Collaborations", "Internships", "Interesting data problems"
 }
 ```
 ---
