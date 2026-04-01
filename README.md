@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:4a0080,70:00ff88,100:006633&height=60&section=footer&animation=twinkling"/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Batuhan+👋;🍀+I+enjoy+developing+applications+🍀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Batuhan+👋;🍀+I+enjoy+developing+applications+🍀)](https://git.io/typing-svg)
 ### Data Scientist & Software Developer
 
 > *Turning raw data into decisions — and building tools that make life easier through code.*
